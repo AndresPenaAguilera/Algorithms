@@ -1,0 +1,12 @@
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\bin\Debug\net5.0\CodeAlgorithms.deps.json
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\bin\Debug\net5.0\CodeAlgorithms.dll
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\bin\Debug\net5.0\ref\CodeAlgorithms.dll
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\bin\Debug\net5.0\CodeAlgorithms.pdb
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.csprojAssemblyReference.cache
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.AssemblyInfoInputs.cache
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.AssemblyInfo.cs
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.dll
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\ref\CodeAlgorithms.dll
+C:\Users\andres.pena\source\repos\Algorithms\C#\Algorithms\CodeAlgorithms\obj\Debug\net5.0\CodeAlgorithms.pdb
