@@ -16,7 +16,7 @@ namespace UnitTestAlgorithms
         }
 
         [TestMethod]
-        public void Should_Fibonacci_Return_2_When_n_Is_2()
+        public void Should_Fibonacci_Return_1_When_n_Is_2()
         {
             var n = 2;
             Fibonacci fibonacci = new Fibonacci(n);
@@ -32,7 +32,7 @@ namespace UnitTestAlgorithms
         }
 
         [TestMethod]
-        public void Should_Fibonacci_Return_3_When_n_Is_4()
+        public void Should_Fibonacci_Return_2_When_n_Is_4()
         {
             var n = 4;
             Fibonacci fibonacci = new Fibonacci(n);
@@ -61,6 +61,22 @@ namespace UnitTestAlgorithms
             var n = 7;
             Fibonacci fibonacci = new Fibonacci(n);
             Assert.AreEqual(8, fibonacci.Calculate());
+        }
+
+        [TestMethod]
+        public void Should_Fibonacci_Return_13_When_n_Is_8()
+        {
+            var n = 8;
+            Fibonacci fibonacci = new Fibonacci(n);
+            Assert.AreEqual(13, fibonacci.Calculate());
+        }
+
+        [TestMethod]
+        public void Should_Fibonacci_Return_1597_When_n_Is_18()
+        {
+            var n = 18;
+            Fibonacci fibonacci = new Fibonacci(n);
+            Assert.AreEqual(1597, fibonacci.Calculate());
         }
     }
 }
