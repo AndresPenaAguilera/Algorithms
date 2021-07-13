@@ -46,5 +46,21 @@ namespace UnitTestAlgorithms
             Fibonacci fibonacci = new Fibonacci(n);
             Assert.AreEqual(3, fibonacci.Calculate());
         }
+
+        [TestMethod]
+        public void Should_Fibonacci_Return_5_When_n_Is_6()
+        {
+            var n = 6;
+            Fibonacci fibonacci = new Fibonacci(n);
+            Assert.AreEqual(5, fibonacci.Calculate());
+        }
+
+        [TestMethod]
+        public void Should_Fibonacci_Return_8_When_n_Is_7()
+        {
+            var n = 7;
+            Fibonacci fibonacci = new Fibonacci(n);
+            Assert.AreEqual(8, fibonacci.Calculate());
+        }
     }
 }

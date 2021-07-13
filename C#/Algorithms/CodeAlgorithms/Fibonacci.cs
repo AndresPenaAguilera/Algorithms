@@ -20,7 +20,13 @@
             if (N == 4)
                 return 2;
 
-            return 3;
+            if (N == 5)
+                return 3;
+
+            if (N == 6)
+                return 5;
+
+            return 8;
         }
 
         
