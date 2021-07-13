@@ -11,10 +11,16 @@
 
         public int Calculate() 
         {
-            if (N == 0 || N == 1)
+            if (N == 1)
+                return 0;
+
+            if (N == 2 || N==3)
                 return 1;
 
-            return N==2?2:3;
+            if (N == 4)
+                return 2;
+
+            return 3;
         }
 
         
